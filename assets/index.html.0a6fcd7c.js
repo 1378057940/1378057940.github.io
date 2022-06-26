@@ -1,0 +1,1 @@
+import{_ as t,o,c as a,a as e}from"./app.e8b9ffcc.js";var c="/video/1.mp4";const r={},s=e("video",{width:"700",height:"600",muted:"",autoplay:"autoplay",controls:""},[e("source",{src:c,type:"video/mp4"})],-1),_=[s];function i(n,d){return o(),a("div",null,_)}var m=t(r,[["render",i],["__file","index.html.vue"]]);export{m as default};

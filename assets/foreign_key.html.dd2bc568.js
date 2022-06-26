@@ -1,0 +1,1 @@
+const e={key:"v-1f01ea8a",path:"/pages/Mysql/base/Constraint/foreign_key.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"pages/Mysql/base/Constraint/foreign_key.md"};export{e as data};

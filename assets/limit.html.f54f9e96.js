@@ -1,0 +1,1 @@
+const e={key:"v-4aa8fc0a",path:"/pages/Mysql/base/DQL/limit.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"pages/Mysql/base/DQL/limit.md"};export{e as data};

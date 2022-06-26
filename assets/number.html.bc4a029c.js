@@ -1,0 +1,1 @@
+const e={key:"v-4331f1b4",path:"/pages/Mysql/base/Function/number.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"pages/Mysql/base/Function/number.md"};export{e as data};

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="generator" content="VuePress 2.0.0-beta.46">
+    <style>
+      :root {
+        --c-bg: #fff;
+      }
+      html.dark {
+        --c-bg: #22272e;
+      }
+      html, body {
+        background-color: var(--c-bg);
+      }
+    </style>
+    <script>
+      const userMode = localStorage.getItem('vuepress-color-scheme');
+			const systemDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+			if (userMode === 'dark' || (userMode !== 'light' && systemDarkMode)) {
+				document.documentElement.classList.toggle('dark', true);
+			}
+    </script>
+    <link rel="icon" href="https://blog.qinxuihui.cn/uploads/blog/ee956aa4cf4c8b85c48fa776ed2f10fe.ico"><title>秦官人</title><meta name="description" content="">
+    <link rel="modulepreload" href="/assets/app.e8b9ffcc.js"><link rel="modulepreload" href="/assets/404.html.40304cfb.js"><link rel="modulepreload" href="/assets/404.html.f166316b.js"><link rel="prefetch" href="/assets/index.html.172548b4.js"><link rel="prefetch" href="/assets/index.html.caacc990.js"><link rel="prefetch" href="/assets/tables.html.aa431e6f.js"><link rel="prefetch" href="/assets/design_principles.html.af7928fc.js"><link rel="prefetch" href="/assets/grammar.html.0d37e068.js"><link rel="prefetch" href="/assets/performance_analysis.html.b5fcb3cd.js"><link rel="prefetch" href="/assets/usage_rules.html.f4de659b.js"><link rel="prefetch" href="/assets/insert.html.175cd3db.js"><link rel="prefetch" href="/assets/primary_key.html.1b0204ae.js"><link rel="prefetch" href="/assets/affair.html.7c542d46.js"><link rel="prefetch" href="/assets/constraint.html.cc5f9227.js"><link rel="prefetch" href="/assets/foreign_key.html.dd2bc568.js"><link rel="prefetch" href="/assets/auth.html.9437afb6.js"><link rel="prefetch" href="/assets/user.html.37a8b21c.js"><link rel="prefetch" href="/assets/databases.html.60210be3.js"><link rel="prefetch" href="/assets/tables.html.6c178b02.js"><link rel="prefetch" href="/assets/dml.html.f91187cf.js"><link rel="prefetch" href="/assets/agg_function.html.5757e1cc.js"><link rel="prefetch" href="/assets/base.html.09611406.js"><link rel="prefetch" href="/assets/group.html.bf3fe1ae.js"><link rel="prefetch" href="/assets/limit.html.f54f9e96.js"><link rel="prefetch" href="/assets/order.html.afe40ad7.js"><link rel="prefetch" href="/assets/practice.html.1e6bd422.js"><link rel="prefetch" href="/assets/where.html.ddcf564b.js"><link rel="prefetch" href="/assets/date.html.98415604.js"><link rel="prefetch" href="/assets/number.html.bc4a029c.js"><link rel="prefetch" href="/assets/process_control.html.be605852.js"><link rel="prefetch" href="/assets/string.html.2d8dffd1.js"><link rel="prefetch" href="/assets/internal.html.5c5e08f7.js"><link rel="prefetch" href="/assets/outside.html.07706263.js"><link rel="prefetch" href="/assets/practice.html.51fc1c18.js"><link rel="prefetch" href="/assets/self.html.ba3556c6.js"><link rel="prefetch" href="/assets/subquery.html.49a1a7d8.js"><link rel="prefetch" href="/assets/union.html.ffa618d3.js"><link rel="prefetch" href="/assets/date.html.5867ec16.js"><link rel="prefetch" href="/assets/number.html.eb3ec9c8.js"><link rel="prefetch" href="/assets/string.html.9baffbd2.js"><link rel="prefetch" href="/assets/index.html.a629fc6c.js"><link rel="prefetch" href="/assets/index.html.0a6fcd7c.js"><link rel="prefetch" href="/assets/tables.html.bf25e131.js"><link rel="prefetch" href="/assets/design_principles.html.f395b129.js"><link rel="prefetch" href="/assets/grammar.html.55601bf0.js"><link rel="prefetch" href="/assets/performance_analysis.html.0aaafcfe.js"><link rel="prefetch" href="/assets/usage_rules.html.00a7e264.js"><link rel="prefetch" href="/assets/insert.html.8b0cb0b6.js"><link rel="prefetch" href="/assets/primary_key.html.ec6200b9.js"><link rel="prefetch" href="/assets/affair.html.5750bf1c.js"><link rel="prefetch" href="/assets/constraint.html.2c667b33.js"><link rel="prefetch" href="/assets/foreign_key.html.ed599d0e.js"><link rel="prefetch" href="/assets/auth.html.48e24df0.js"><link rel="prefetch" href="/assets/user.html.9f907db3.js"><link rel="prefetch" href="/assets/databases.html.d9055832.js"><link rel="prefetch" href="/assets/tables.html.1db63158.js"><link rel="prefetch" href="/assets/dml.html.346e6bca.js"><link rel="prefetch" href="/assets/agg_function.html.b7cd85ae.js"><link rel="prefetch" href="/assets/base.html.6171a4b7.js"><link rel="prefetch" href="/assets/group.html.648700b8.js"><link rel="prefetch" href="/assets/limit.html.92de891f.js"><link rel="prefetch" href="/assets/order.html.961182cf.js"><link rel="prefetch" href="/assets/practice.html.e3eff4b3.js"><link rel="prefetch" href="/assets/where.html.2b4a7eaf.js"><link rel="prefetch" href="/assets/date.html.512138f1.js"><link rel="prefetch" href="/assets/number.html.b73cd7b7.js"><link rel="prefetch" href="/assets/process_control.html.9720bda1.js"><link rel="prefetch" href="/assets/string.html.797b42dc.js"><link rel="prefetch" href="/assets/internal.html.dde8b2c6.js"><link rel="prefetch" href="/assets/outside.html.3ad3155a.js"><link rel="prefetch" href="/assets/practice.html.07170242.js"><link rel="prefetch" href="/assets/self.html.edcabc85.js"><link rel="prefetch" href="/assets/subquery.html.3388a4ca.js"><link rel="prefetch" href="/assets/union.html.2b775e5f.js"><link rel="prefetch" href="/assets/date.html.9be96603.js"><link rel="prefetch" href="/assets/number.html.75c9a376.js"><link rel="prefetch" href="/assets/string.html.8e7731a0.js"><link rel="prefetch" href="/assets/404.d137da56.js"><link rel="prefetch" href="/assets/Layout.5d985c3e.js"><link rel="prefetch" href="/assets/mermaid.esm.min.95aabeb7.js">
+    <link rel="stylesheet" href="/assets/style.4e91a952.css">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="theme-container"><div class="theme-default-content"><h1>404</h1><blockquote>That&#39;s a Four-Oh-Four.</blockquote><a href="/" class="">Take me home</a></div></div><!----><!--]--></div>
+    <script type="module" src="/assets/app.e8b9ffcc.js" defer></script>
+  </body>
+</html>

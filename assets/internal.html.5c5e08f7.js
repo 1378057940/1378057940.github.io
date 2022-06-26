@@ -1,0 +1,1 @@
+const e={key:"v-9c947222",path:"/pages/Mysql/base/MultiTable/internal.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"pages/Mysql/base/MultiTable/internal.md"};export{e as data};

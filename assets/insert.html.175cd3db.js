@@ -1,0 +1,1 @@
+const t={key:"v-487bb99a",path:"/pages/Mysql/advanced/Optimization/insert.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"pages/Mysql/advanced/Optimization/insert.md"};export{t as data};

@@ -1,0 +1,1 @@
+const e={key:"v-35fc6dbd",path:"/pages/Mysql/advanced/Indexes/grammar.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"pages/Mysql/advanced/Indexes/grammar.md"};export{e as data};

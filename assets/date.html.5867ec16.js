@@ -1,0 +1,1 @@
+const e={key:"v-49cdb710",path:"/pages/Mysql/base/DDL/dataType/date.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"pages/Mysql/base/DDL/dataType/date.md"};export{e as data};

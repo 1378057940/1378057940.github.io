@@ -1,0 +1,1 @@
+const e={key:"v-3fd88a4b",path:"/pages/Mysql/advanced/Indexes/usage_rules.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"pages/Mysql/advanced/Indexes/usage_rules.md"};export{e as data};

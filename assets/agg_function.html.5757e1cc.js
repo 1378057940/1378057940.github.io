@@ -1,0 +1,1 @@
+const a={key:"v-2fa51ab4",path:"/pages/Mysql/base/DQL/agg_function.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"pages/Mysql/base/DQL/agg_function.md"};export{a as data};

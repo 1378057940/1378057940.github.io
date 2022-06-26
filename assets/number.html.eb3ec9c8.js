@@ -1,0 +1,1 @@
+const e={key:"v-19101f15",path:"/pages/Mysql/base/DDL/dataType/number.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"pages/Mysql/base/DDL/dataType/number.md"};export{e as data};

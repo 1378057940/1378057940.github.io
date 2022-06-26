@@ -1,0 +1,1 @@
+const e={key:"v-30e5f3dd",path:"/pages/Mysql/advanced/Optimization/primary_key.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"pages/Mysql/advanced/Optimization/primary_key.md"};export{e as data};

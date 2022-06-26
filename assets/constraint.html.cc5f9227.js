@@ -1,0 +1,1 @@
+const t={key:"v-6ad4bed7",path:"/pages/Mysql/base/Constraint/constraint.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"pages/Mysql/base/Constraint/constraint.md"};export{t as data};
